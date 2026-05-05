@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Théo Garde</h1>
 <h3 align="center">Student at Epitech in Strasbourg, France</h3>
 
-- 🔭 I’m currently working on **a Social media project**
+- 🔭 I’m currently working on **a Social media personnal project**
 
-- 🌱 I’m currently learning **react, python (for use data, create machine learning and ia),**
+- 🌱 I’m currently learning **React and python (for use data, create machine learning and ia) **
 
-- 📫 How to reach me **theo.garde@epitech.eu**
+- 📫 How to reach me: send me a mail to **theo.garde@epitech.eu**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
