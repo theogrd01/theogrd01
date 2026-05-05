@@ -31,7 +31,6 @@
   <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" style="margin:5px;" /></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="margin:5px;" /></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="margin:5px;" /></a>
-  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" style="margin:5px;" /></a>
   <a href="https://www.apple.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" style="margin:5px;" /></a>
 </p>
 
