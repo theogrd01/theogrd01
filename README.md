@@ -1,2 +1,0 @@
-# .profile
-Hello world
