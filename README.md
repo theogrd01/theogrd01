@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Théo Garde</h1>
-<h3 align="center">Student at Epitech <img src="https://usbeketrica.com/media/496/download/epitechlogo.png?v=3" alt="Epitech" width="20"/> in Strasbourg 🥨, France 🇫🇷 </h3>
+<h3 align="center">Student at Epitech <img src="https://companieslogo.com/img/orig/epitech-eu-28fcad28.png?t=1720244494" alt="Epitech" width="20"/> in Strasbourg 🥨, France 🇫🇷 </h3>
 
 - 🔭 I’m currently working on **a Social media personnal project**
 
