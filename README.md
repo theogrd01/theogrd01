@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Social media personnal project**
 
-- 🌱 I’m currently learning **React and python (for use data, create machine learning and ia)**
+- 🌱 I’m currently learning **React and python (for use data, create machine learning and AI)**
 
 - 📫 How to reach me: send me a mail to **theo.garde@epitech.eu**
 
